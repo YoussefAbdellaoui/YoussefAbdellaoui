@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youssefabdellaoui&label=Profile%20views&color=0e75b6&style=flat" alt="youssefabdellaoui" /> </p>
 
-- 🔭 I’m currently working on [3d_Portfolio](youssefabdellaoui.com)
+- 🔭 I’m currently working on [3d_Portfolio](https://www.youssefabdellaoui.com)
 
 - 🌱 I’m currently learning **React.js, SwiftUI and Flutter**
 
