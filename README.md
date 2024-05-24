@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [My projects](https://github.com/YoussefAbdellaoui?tab=repositories)
 
-- ⚡ Fun fact **I can speak 4 languages 😎**
+- ⚡ Fun fact **I speak 4 languages 😎**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
