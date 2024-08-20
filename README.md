@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Invoive Generator](https://github.com/YoussefAbdellaoui?tab=repositories)
 
-- 🌱 I’m currently learning **Next.js and SwiftUI**
+- 🌱 I’m currently learning **Next.js and React Native**
 
 - 👨‍💻 All of my projects are available at [My projects](https://github.com/YoussefAbdellaoui?tab=repositories)
 
