@@ -102,8 +102,6 @@
   <img src="https://cdn.worldvectorlogo.com/logos/adobe-premiere-pro-cc-1430-vector-svg-.svg" height="40" alt="premierepro logo"  />
   <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/photoshop-cc-7.svg" height="40" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://seeklogo.com/images/A/adobe-express-logo-638B218D06-seeklogo.com.png" height="40" alt="photoshop logo"  />
 </div>
 
 ###
