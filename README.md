@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently working on a Invoicing App<br><br>- 📚 I'm currently improving my <strong>React</strong>knowledge<br><br>- 📸  I dedicate my free time to the photography world (checkout my Unsplash profile!)<br><br>- ⚡ Fun fact I speak 4 languages 😎</p>- 👩🏽‍💻 Checkout my last project ➡️ <a href="https://github.com/YoussefAbdellaoui/SnapDocs" target="_blank">SnapDoc</a>
+<p align="left">- 📚 I'm currently improving my <strong>React</strong>knowledge<br><br>- 📸  I dedicate my free time to the photography world (checkout my Unsplash profile!)<br><br>- ⚡ Fun fact I speak 4 languages 😎</p>- 👩🏽‍💻 Checkout my last project ➡️ <a href="https://github.com/YoussefAbdellaoui/SnapDocs" target="_blank">SnapDoc</a>
 
 ###
 
