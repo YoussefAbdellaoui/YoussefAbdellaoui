@@ -37,7 +37,7 @@
 <h3>👩🏽‍💻 Checkout my latest projects</h3>
 
 ###
-
+- <a href="https://invoice-it-beta.vercel.app/" target="_blank">Invoice-It</a><br/><br/>
 - <a href="https://github.com/YoussefAbdellaoui/SnapDocs" target="_blank">SnapDoc</a><br/><br/>
 - <a href="https://www.krune-transporte.de/" target="_blank">Krune Transporte GmbH</a><br/><br/>
 - <a href="https://rif-shift-media.vercel.app/" target="_blank">Rif Shift Media Agency</a><br/><br/>
