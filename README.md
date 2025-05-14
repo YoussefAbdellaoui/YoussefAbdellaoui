@@ -22,7 +22,7 @@
 
 ###
 
-<p align="center">Frontend Developer apprentice based in Germany 🇩🇪</p>
+<p align="center">Frontend Developer based in Germany 🇩🇪</p>
 
 ###
 
@@ -30,9 +30,18 @@
 
 ###
 
-<p align="left">- 📚 I'm currently improving my <strong>React</strong> knowledge<br><br>- 📸  I dedicate my free time to the photography world (checkout my Unsplash profile!)<br><br>- ⚡ Fun fact I speak 4 languages 😎</p>- 👩🏽‍💻 Checkout my last project ➡️ <a href="https://github.com/YoussefAbdellaoui/SnapDocs" target="_blank">SnapDoc</a>
+<p align="left">- 📚 I'm currently improving my <strong>React</strong> knowledge<br><br>- 📸  I dedicate my free time to the photography world (checkout my Unsplash profile!)<br><br>- ⚡ Fun fact I speak 4 languages 😎
 
 ###
+
+<h3>👩🏽‍💻 Checkout my latest projects</h3>
+
+###
+
+- <a href="https://github.com/YoussefAbdellaoui/SnapDocs" target="_blank">SnapDoc</a><br/><br/>
+- <a href="https://www.krune-transporte.de/" target="_blank">Krune Transporte GmbH</a><br/><br/>
+- <a href="https://rif-shift-media.vercel.app/" target="_blank">Rif Shift Media Agency</a><br/><br/>
+- <a>HireVentures (coming soon!)</a><br/><br/>
 
 <h2 align="center">🔥 Techstack</h2>
 
